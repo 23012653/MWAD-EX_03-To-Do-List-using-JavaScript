@@ -278,8 +278,6 @@ function filterTasks(filter) {
   currentFilter = filter;
   renderTasks();
 }
-
-// Initial render
 renderTasks();
 
 ```
